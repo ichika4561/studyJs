@@ -13,7 +13,7 @@
 // // setIntervalはグローバル関数。requireも不必要。
 // setInterval(getXrpPrice, 1000);
 
-var str         = '123abcあいう',
-    stringCount = str.length;
+var str         = '123abcあいう';
+    // stringCount = str.length;
 
-console.log(stringCount);
+console.log(str[2]);
