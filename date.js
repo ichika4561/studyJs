@@ -75,6 +75,5 @@ console.log('UTC日付マイナスUNIXTME', nextUNIX);
 // console.log();
 // // 翌々月初日
 
-// // 10/1 0:0:0
 // // const paymentExpireAt = Math.floor(nextMonthDay / 1000);
 // // console.log(3, paymentExpireAt);
