@@ -5,7 +5,6 @@ const paymentExpireAt1 = Math.floor(nextMonthDay2 / 1000);
 console.log('参考(本日の日付): ', dt);
 console.log('参考(DATEオブジェクト): ', nextMonthDay1);
 console.log('参考(UNIXTIME): ', paymentExpireAt1);
-
 console.log('参考(UNIXTIME): ', dt.getUTCHours());
 
 // 参考
